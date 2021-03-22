@@ -11,7 +11,7 @@ I also love Mathematics. Numbers are really fascinating, from having a better gr
 <br>
 I love to explore any tech that I can get my hands on and for me the best way to learn anything is implementation. Currently, along with Data Science, I have also been entangled with Quantum Computing. The advent of qubits has countless possibilities, starting from scalability to finding solutions for the 'undecidable' problems of today's world. But personally, I can't wait for the normalization of Teleportation [The sooner, the better]
 <br><br>
-When I ain't tinkering, I usually spend my time COOKING or learning and practicing self-defense techniques. 
+When I ain't tinkering, I usually spend my time COOKING, Watching Anime or learning and practicing self-defense techniques. 
 
 <!---
 TheOneSSA/TheOneSSA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
