@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Machine Learning, Data Science and Software Engineering - related projects. [Gonna learn them all]
 - 📫 Here's my: LinkedIn profile: https://www.linkedin.com/in/soumya-s-acharya-b57329192/ , Email ID: acharya.ab27@gmail.com , feel free to reach me. 
 
-<h3>A Little About Me....</h3>
+<h3>About Me....</h3>
 I am a student of Computer Science and Engineering. Being curious about learning new things and exploring new technologies boosts my learning ability. I really like to connect with people ,know their culture and learn from their experience. Fortunately, in my last collaboration with Omdena, I was able to connect with talented individuals from different parts of the world and learn from them.
 I also love Mathematics. Numbers are really fascinating, from having a better grasp at conventional coding to learning the concepts of Machine Learning, the numbers have always provided me a solution.
 <br>
